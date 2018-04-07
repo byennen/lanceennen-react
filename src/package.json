@@ -1,0 +1,13 @@
+{
+  "name": "React Router v4 Demo",
+  "version": "1.0.0",
+  "description": "This is a demo for React router v4. You can read more about this at SitePoint.com\n",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/nn8x24vm60",
+  "main": "index.js",
+  "dependencies": {
+    "react-router-dom": "4.2.2",
+    "react-dom": "15.6.1",
+    "react": "15.6.1"
+  }
+}
